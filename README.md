@@ -66,3 +66,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+###How did you decide on the technical and architectural choices used as part of your solution?
+
+I have used the basic setup in building this project. Along with that, I have used Bootstrap for css which makes the life
+easier in writing CSS. For state management, I have used Redux which is a global state management library. 
+
+###Are there any improvements you could make to your submission?
+
+Since starting from my career, I am more focused towards functionality part and less inclined towards CSS, so I don't know
+much about the responsive part, so at this point of time, this app is not responsive, so as an improvement, I could make this
+app responsive and I am working on it.
+
+###What would you do differently if you were allocated more time?
+
+Although I believe 10 days time is more than sufficient to complete this app as per the requirement but if I had some time,
+I would have implemented more functionality to it.
